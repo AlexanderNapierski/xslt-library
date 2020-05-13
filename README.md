@@ -13,6 +13,5 @@ You can browse this repository and find your desired XSLT or you can clone this 
 
 # Content
 
-[string-to-tags](assets/string-to-tags) Convert a comma separated string into multiple XML elements.
-
-[clean-up-content](assets/clean-up-content) Call a template to clean up the value from multiple html elements and attributes.
+* [string-to-tags](assets/string-to-tags) Convert a comma separated string into multiple XML elements.
+* [clean-up-content](assets/clean-up-content) Call a template to clean up the value from multiple html elements and attributes.
