@@ -2,7 +2,7 @@
 
 🎉 Welcome to my XSLT library 🎉
 
-Useful scripts and snippets here it is gathered for free.
+Here is a collection of useful scripts and snippets that are free of charge.
 
 # Getting Started
 
